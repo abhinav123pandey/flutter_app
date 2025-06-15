@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # challenge_1
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_app
+JOVAC_fultter_learnings
+>>>>>>> 183a855a8eca423d6b6a93b77494a4ff4f71dfec
