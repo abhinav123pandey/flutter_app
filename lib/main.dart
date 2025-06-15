@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
                         ),
                       ),
                     ),
-                    SizedBox(height: 10),
+                   
                     Text(
                       'Abhinav Pandey',
                       style: TextStyle(
@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.lightBlueAccent,
                       ),
                     ),
-                    SizedBox(height: 20),
+                  
                     Container(
                       padding: EdgeInsets.all(12),
                       decoration: BoxDecoration(
@@ -69,12 +69,12 @@ class MyApp extends StatelessWidget {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Icon(Icons.phone),
-                          SizedBox(width: 5),
+                        
                           Text('1234567890'),
                         ],
                       ),
                     ),
-                    SizedBox(height: 10),
+                   
                     Container(
                       padding: EdgeInsets.all(12),
                       decoration: BoxDecoration(
@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Icon(Icons.email),
-                          SizedBox(width: 5),
+            
                           Text('abhinav@gmail.com'),
                         ],
                       ),
